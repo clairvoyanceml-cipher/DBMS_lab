@@ -4,3 +4,5 @@ DBMS lab tasks
 3) Insertion and updation of data into database, working with constraints - 16/02/21
 4) Nested queries and operators - 23/02/21
 5) Join, aggregate functions and nested queries - 16/03/21
+6) Normalization - 06/04/2021
+7) Stored procedures and transactions - 21-04-2021
